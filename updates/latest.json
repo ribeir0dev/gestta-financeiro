@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "installer_url": "https://github.com/ribeir0dev/gestta-financeiro/releases/download/v1.0.0/Gestta-Setup-1.0.0.exe",
-  "download_url": "https://github.com/ribeir0dev/gestta-financeiro/releases/download/v1.0.0/Gestta-Setup-1.0.0.exe",
+  "version": "1.0.1",
+  "installer_url": "https://github.com/ribeir0dev/gestta-financeiro/releases/download/v1.0.1/Gestta-Setup-1.0.1.exe",
+  "download_url": "https://github.com/ribeir0dev/gestta-financeiro/releases/download/v1.0.1/Gestta-Setup-1.0.1.exe",
   "sha256": "4FE8898690131CC2B6FC581211D8BB7117FCDD5182F323205630B49A370EA645",
   "notes": "Versão inicial do Gestta."
 }
